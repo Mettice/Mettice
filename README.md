@@ -5,7 +5,7 @@
 </h5>
 -->
 # 👋 Hi, I’m Efuetngong Dion
-- 👀 I’m interested in **Blockchain**
+- 👀 I’m interested in **Blockchain and Web3**
 - 🌱 I’m currently learning **Blockchain Development**
 - 💞️ I’m looking to collaborate on **Blockchain projects**
 
@@ -21,7 +21,7 @@ I am a dedicated **Blockchain Developer** with a robust background in **Solidity
 - Contributed to several DeFi projects, focusing on creating decentralized applications that address real-world problems related to finance and beyond.
 
 ## 🏆 Achievements
-- Successfully completed the **'Blockchain Basics'**, **'Solidity Developer'**, and **'Foundry 101'** courses on Cyfrin Updraft, gaining a deep understanding of blockchain fundamentals and advanced Solidity concepts. 
+- Successfully completed the **'Blockchain Basics'**, **'Solidity Developer'**, **'Foundry 101'** and **'Advance Foundry'** courses on Cyfrin Updraft, gaining a deep understanding of blockchain fundamentals and advanced Solidity concepts. 
 - Pioneered the integration of blockchain oracles in smart contracts for improved data reliability and security in transaction processing.
 - Consistently recognized for detail-oriented development and a meticulous approach to project management and execution.
 
