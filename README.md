@@ -7,10 +7,10 @@
 - 💞️ I’m looking to collaborate on **Blockchain projects**
 
 
-## About Me
+## 🚀 About Me
 I am a dedicated **Blockchain Developer** with a robust background in **Solidity programming** and **smart contract development**. With hands-on experience in deploying, testing, and securing smart contracts on the **Ethereum blockchain**, I am driven by the challenge of enhancing transaction security and efficiency within the DeFi space.
 
-## 🚀 Technical Expertise
+## 🎯 Technical Expertise
 - **Smart Contract Development:** ![Solidity](https://img.shields.io/badge/Solidity-000000?style=flat&logo=solidity&logoColor=white)
 - Skilled in writing, deploying, and optimizing smart contracts using Solidity. Proficient in the ERC-20 token standard and blockchain oracles, enabling efficient integration of real-world data into the decentralized environment.
 - **Blockchain Security:** ![Security](https://img.shields.io/badge/Security-F80000?style=flat&logo=security&logoColor=white)
@@ -55,29 +55,22 @@ Let’s connect and discuss how my blockchain expertise can help transform your 
 |---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="HardHat" alt="HardHat" width="55" height="55"/> |
 
-<details open="">
-  <summary>
-    <div class="markdown-heading" dir="auto">
-      <h3 class="heading-element" dir="auto">💻 GitHub Profile Stats</h3>
-      <a id="user-content--github-profile-stats" class="anchor" aria-label="Permalink: 💻 GitHub Profile Stats" href="#-github-profile-stats">
-        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-          <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
-          </path>
-        </svg>
-      </a>
-    </div>
-  </summary>
-  <hr>
-  <p align="center" dir="auto">
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Mettice's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mettice&show_icons=true&theme=tokyonight&layout=compact" height="230px">
-    </a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Mettice/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mettice&langs_count=10&show_icons=true&theme=tokyonight" alt="Mettice's Top Languages" height="230px">
-    </a>
-    <br>
-  </p>
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mettice&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mettice&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mettice" height="230px"/>
+<br/>
 </details>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p> 
+
+
 
  
 
