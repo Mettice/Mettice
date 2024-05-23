@@ -56,7 +56,7 @@ Let’s connect and discuss how my blockchain expertise can help transform your 
 ### Development Tools:
 | HardHat | Remix IDE | Foundry |
 |---------|-----------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="HardHat" alt="HardHat" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Remix_logo.png/600px-Remix_logo.png" title="Remix IDE" alt="Remix IDE" width="55" height="55"/> | <img src="https://github.com/foundry-rs/foundry/blob/master/.github/assets/foundry-logo.svg" title="Foundry" alt="Foundry" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="HardHat" alt="HardHat" width="55" height="55"/> | <img src="https://github.com/Mettice/Mettice/blob/main/remix-removebg-preview.png" title="Remix IDE" alt="Remix IDE" width="55" height="55"/> | <img src="https://github.com/Mettice/Mettice/blob/main/foundry-removebg-preview.png" title="Foundry" alt="Foundry" width="55" height="55"/> |
 
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
