@@ -1,5 +1,4 @@
-![2](https://github.com/Mettice/Mettice/assets/163350802/2c55192a-20d5-49fe-8e3f-5ff8e3ad75c3)
-
+![2](https://github.com/Mettice/Mettice/assets/163350802/b8a1df94-4f20-4042-92d4-4969bbe9f4af)
 # 👋 Hi, I’m Efuetngong Dion
 - 👀 I’m interested in **Blockchain**
 - 🌱 I’m currently learning **Blockchain Development**
