@@ -5,7 +5,7 @@
 </h5>
 -->
 # 👋 Hi, I’m Efuetngong Dion
-- 👀 I’m interested in **Blockchain and Web3**
+- 👀 I’m interested in **Blockchain**
 - 🌱 I’m currently learning **Blockchain Development**
 - 💞️ I’m looking to collaborate on **Blockchain projects**
 
@@ -21,7 +21,7 @@ I am a dedicated **Blockchain Developer** with a robust background in **Solidity
 - Contributed to several DeFi projects, focusing on creating decentralized applications that address real-world problems related to finance and beyond.
 
 ## 🏆 Achievements
-- Successfully completed the **'Blockchain Basics'**, **'Solidity Developer'**, **'Foundry 101'** and **'Advance Foundry'** courses on Cyfrin Updraft, gaining a deep understanding of blockchain fundamentals and advanced Solidity concepts. 
+- Successfully completed the **'Blockchain Basics'**, **'Solidity Developer'**, and **'Foundry 101'** courses on Cyfrin Updraft, gaining a deep understanding of blockchain fundamentals and advanced Solidity concepts. 
 - Pioneered the integration of blockchain oracles in smart contracts for improved data reliability and security in transaction processing.
 - Consistently recognized for detail-oriented development and a meticulous approach to project management and execution.
 
@@ -44,9 +44,9 @@ Let’s connect and discuss how my blockchain expertise can help transform your 
 ## Languages and Frameworks
 
 ### Languages:
-| Solidity |
-|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/> |
+| Python | Solidity |
+|---------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/> |
 
 ### Frameworks and Tools:
 | ERC-20 | Blockchain Oracles | Ethereum | MetaMask | Truffle | Ganache |
@@ -54,9 +54,9 @@ Let’s connect and discuss how my blockchain expertise can help transform your 
 | ![ERC-20](https://img.shields.io/badge/ERC--20-000000?style=flat&logo=ethereum&logoColor=white) | ![Oracles](https://img.shields.io/badge/Oracles-217346?style=flat&logo=ethereum&logoColor=white) | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white) | ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat&logo=ethereum&logoColor=white) | ![Truffle](https://img.shields.io/badge/Truffle-5E474D?style=flat&logo=ethereum&logoColor=white) | ![Ganache](https://img.shields.io/badge/Ganache-62462D?style=flat&logo=ethereum&logoColor=white) |
 
 ### Development Tools:
-| HardHat |
-|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="HardHat" alt="HardHat" width="55" height="55"/> |
+| HardHat | Remix IDE | Foundry |
+|---------|-----------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="HardHat" alt="HardHat" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Remix_logo.png/600px-Remix_logo.png" title="Remix IDE" alt="Remix IDE" width="55" height="55"/> | <img src="https://github.com/foundry-rs/foundry/blob/master/.github/assets/foundry-logo.svg" title="Foundry" alt="Foundry" width="55" height="55"/> |
 
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
