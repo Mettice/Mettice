@@ -1,5 +1,9 @@
 ![2](https://github.com/Mettice/Mettice/assets/163350802/b8a1df94-4f20-4042-92d4-4969bbe9f4af)
-
+<!--
+<h5 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Welcome+to+my+profile!;I+am+a+dedicated+Blockchain+Developer;Solidity+Expert+Smart+Contract+Development;" />
+</h5>
+-->
 # 👋 Hi, I’m Efuetngong Dion
 - 👀 I’m interested in **Blockchain**
 - 🌱 I’m currently learning **Blockchain Development**
@@ -75,6 +79,8 @@ Let’s connect and discuss how my blockchain expertise can help transform your 
 <p align="center">
   <img width="1000" src="https://raw.githubusercontent.com/sammorozov/sammorozov/93e25f912803312bba5cfb74dd0f728502031530/assets/github-snake.svg" alt="Activity Graph"/>
 </p>
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p> 
+-->
