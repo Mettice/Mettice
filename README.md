@@ -62,6 +62,7 @@ Let’s connect and discuss how my blockchain expertise can help transform your 
 	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mettice&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mettice&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mettice" height="230px"/>
 <br/>
+</p>
 </details>
 
 <p align="center">
