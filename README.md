@@ -19,10 +19,10 @@ I am a dedicated **Blockchain Developer** with a robust background in **Solidity
 - **Blockchain Security:** ![Security](https://img.shields.io/badge/Security-F80000?style=flat&logo=security&logoColor=white)
 - Comprehensive understanding of blockchain security measures. Experienced in implementing strategies to prevent common and complex vulnerabilities, including reentrancy attacks, ensuring contract immutability, and maintaining overall security.
 - **DeFi Projects:** ![DeFi](https://img.shields.io/badge/DeFi-217346?style=flat&logo=ethereum&logoColor=white)
-- Contributed to several DeFi projects, focusing on creating decentralized applications that address real-world problems related to finance and beyond.
+- Hands on Experience on several DeFi projects, focusing on creating decentralized applications that address real-world problems related to finance and beyond.
 
 ## 🏆 Achievements
-- Successfully completed the **'Blockchain Basics'**, **'Solidity Developer'**, and **'Foundry 101'** courses on Cyfrin Updraft, gaining a deep understanding of blockchain fundamentals and advanced Solidity concepts. 
+- Successfully completed the **'Blockchain Basics'**, **'Solidity Developer'**, **'Foundry 101'** and **'advancen Foundry'** courses on Cyfrin Updraft, gaining a deep understanding of blockchain fundamentals and advanced Solidity concepts. 
 - Pioneered the integration of blockchain oracles in smart contracts for improved data reliability and security in transaction processing.
 - Consistently recognized for detail-oriented development and a meticulous approach to project management and execution.
 
