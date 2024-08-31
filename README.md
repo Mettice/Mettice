@@ -47,7 +47,7 @@ Let’s connect and discuss how my blockchain expertise can help transform your 
 ### Languages:
 | Python | Solidity |
 |---------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/> |
 
 ### Frameworks and Tools:
 | ERC-20 | Blockchain Oracles | Ethereum | MetaMask | Truffle | Ganache |
