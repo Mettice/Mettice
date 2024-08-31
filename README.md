@@ -45,7 +45,7 @@ Let’s connect and discuss how my blockchain expertise can help transform your 
 ## Languages and Frameworks
 
 ### Languages:
-| Python | Solidity |
+| JavaScript | Solidity |
 |---------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/> |
 
