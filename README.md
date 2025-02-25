@@ -105,7 +105,9 @@ As a **Blockchain Developer** and **AI Solutions Architect**, I combine my exper
 ---
 
 ### 📊 GitHub Stats & Achievements
-
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mettice&style=for-the-badge&color=orange" alt=""/>
+</div>
 <details>
   <summary><h3>💻 GitHub Profile Stats</h3></summary>
   <p align="center">
@@ -131,12 +133,10 @@ As a **Blockchain Developer** and **AI Solutions Architect**, I combine my exper
 
 ### 👨‍💻 GitHub Activity
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mettice&style=for-the-badge&color=orange" alt=""/>
-</div>
+
 
 <p align="center">
-  <img width="1000" src="https://raw.githubusercontent.com/sammorozov/sammorozov/93e25f912803312bba5cfb74dd0f728502031530/assets/github-snake.svg" alt="Activity Graph"/>
+  <img width="1000" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662864935959/QSn1SEfOl.gif" alt="Activity Graph"/>
 </p>
 
 <p align="center">
