@@ -1,3 +1,4 @@
+![Turquoise Simple Modern Linkedin Banner (1)](https://github.com/user-attachments/assets/aa5ffbac-c49e-4418-9971-aa3489917cf7)
 <h5 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Welcome+to+my+profile!;I+am+a+dedicated+Blockchain+Developer;AI+Solutions+Architect+&+Multi-Agent+Systems+Expert;" />
 </h5>
