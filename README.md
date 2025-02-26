@@ -173,7 +173,7 @@ As an **AI Solutions Architect** and **Machine Learning Engineer**, I specialize
 
 ### 📞 Contact Me
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/efuetngong-dion/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Mettice"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
