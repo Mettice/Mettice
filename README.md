@@ -35,13 +35,7 @@ As a **Blockchain Developer** and **AI Solutions Architect**, I combine my exper
 
 ---
 
-### 🏆 Achievements
 
-- **AI-driven DeFi Trading Bots**: Resolved complex challenges in developing **AI-powered trading bots**, overcoming integration issues with AI models and blockchain oracles.
-- **EcoSphere DAO**: Led the creation of a **decentralized carbon credit marketplace**, integrating **AI-powered ESG credits** and building the smart contract infrastructure.
-- **Business Workflow Automation**: Automated business workflows using **AI** and **RPA**, helping clients streamline operations and improve efficiency.
-
----
 
 ### 💼 Experience
 
@@ -147,7 +141,13 @@ As a **Blockchain Developer** and **AI Solutions Architect**, I combine my exper
 - **Automation & RPA** | *Various Certifications*
 
 ---
+### 🏆 Achievements
 
+- **AI-driven DeFi Trading Bots**: Resolved complex challenges in developing **AI-powered trading bots**, overcoming integration issues with AI models and blockchain oracles.
+- **EcoSphere DAO**: Led the creation of a **decentralized carbon credit marketplace**, integrating **AI-powered ESG credits** and building the smart contract infrastructure.
+- **Business Workflow Automation**: Automated business workflows using **AI** and **RPA**, helping clients streamline operations and improve efficiency.
+
+---
 ### 💻 **Projects**
 - **Fund Me Contract**  
   A crowdfunding smart contract on the **Ethereum** blockchain.  
