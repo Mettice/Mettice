@@ -1,11 +1,11 @@
 ![Turquoise Simple Modern Linkedin Banner (1)](https://github.com/user-attachments/assets/aa5ffbac-c49e-4418-9971-aa3489917cf7)
 <h5 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Welcome+to+my+profile!;I+am+a+dedicated+Blockchain+Developer;AI+Solutions+Architect+&+Multi-Agent+Systems+Expert;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Welcome+to+my+profile!;I+am+a+dedicated+AI+Solutions+Architect;Machine+Learning+Engineer+&+Automation+Expert;" />
 </h5>
 
 # 🌟 Efuetngong Dion  
-## 🚀 Automation Engineer | AI Solutions Architect | Multi-Agent Systems & Blockchain Expert  
-### 🌐 Building Next-Gen AI & Blockchain Solutions for Business Impact  
+## 🚀 AI Solutions Architect | Machine Learning Engineer | Automation Expert | Blockchain Developer  
+### 🌐 Building Next-Gen AI & ML Solutions to Drive Business Impact  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/efuetngong-dion/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -18,41 +18,38 @@
 
 ### 🤖 About Me
 
-As a **Blockchain Developer** and **AI Solutions Architect**, I combine my expertise in **Solidity smart contract development**, **multi-agent systems**, and **decentralized finance (DeFi)** to create secure, scalable, and innovative solutions. My journey has been defined by overcoming significant challenges, consistently solving complex problems to deliver high-impact projects in **Blockchain** and **AI**.
+As an **AI Solutions Architect** and **Machine Learning Engineer**, I specialize in **AI-driven automation**, **multi-agent systems**, and building **intelligent solutions** that help businesses stay ahead in an ever-evolving technological landscape. My background in both **ML/AI** and **Blockchain development** allows me to provide cutting-edge solutions that integrate the best of both worlds.
 
 #### 🧠 Problem-Solving & Challenges Overcome:
-- **Learning & Adapting to New Technologies**: I started my coding journey later than most, facing steep learning curves in both blockchain and AI. Through perseverance, I’ve gained hands-on experience in developing AI-driven solutions and secure smart contracts.
-- **Managing Complex Projects**: I thrive in managing multi-faceted projects, like building AI-powered automation systems and decentralized applications. My focus on prioritization and continuous learning has helped me deliver impactful solutions that address real-world business needs.
+- **Learning & Adapting to New Technologies**: Despite starting my coding journey later than most, I have quickly mastered **AI/ML** concepts, creating powerful systems with real-world applications.
+- **Managing Complex Projects**: I thrive in complex, cross-functional environments where AI solutions need to be implemented at scale, such as in **AI-powered automation systems** or **blockchain-backed applications**.
 
 ---
 
 ### 🛠️ Key Expertise
 
-- **Smart Contract Development**: Extensive experience writing, deploying, and optimizing **Solidity-based** smart contracts for **DeFi** projects. Skilled in **ERC-20 token standards**, **blockchain oracles**, and **smart contract security**.
-- **AI & Automation**: Proficient in **multi-agent systems** and **AI-driven automation**, having built solutions using **CrewAI** to automate workflows in **sales**, **task management**, and **financial processes**.
-- **Blockchain Security**: Expertise in safeguarding decentralized applications, preventing vulnerabilities like **reentrancy attacks**, and ensuring robust contract security.
-- **Generative AI**: Hands-on experience with **LLMs** and **AI-driven tools** to automate content creation, sales pipelines, and customer support processes.
+- **AI & Machine Learning**: Expertise in creating **ML models**, developing **AI-driven automation**, and integrating **multi-agent systems** for advanced business solutions.
+- **Generative AI**: Hands-on experience building tools using **Large Language Models (LLMs)** and **AI for content generation** and **business process automation**.
+- **AI-driven Automation**: Developed **automated systems** for workflow optimization, utilizing **CrewAI** to streamline **sales**, **task management**, and **financial** operations.
+- **Blockchain Development**: Proficient in developing **Solidity smart contracts** for decentralized applications (**DeFi**), **blockchain security**, and **Ethereum-based solutions**.
 
 ---
 
-
-
 ### 💼 Experience
 
-#### 🛠️ Blockchain Developer & AI Solutions Architect  
+#### 🛠️ AI Solutions Architect & Machine Learning Engineer  
 **Freelance** | *Jun 2023 - Present*  
-- Architected and deployed **Solidity-based smart contracts** for **decentralized applications**.
-- Built AI-powered **trading bots** for real-time market analysis using **RSI** and **MACD** indicators.
-- Automated complex workflows using **multi-agent systems** and **CrewAI** to improve operational efficiency.
-- Led the development of the **EcoSphere DAO platform**, integrating smart contracts with **ESG credits**.
+- Led the development of **AI-powered automation systems** for business process optimization using **ML models** and **multi-agent systems**.
+- Developed intelligent **trading bots** utilizing **ML algorithms** and **blockchain technology** for real-time market analysis.
+- Automated workflows for various businesses using **AI** to streamline operations and improve decision-making processes.
 
 #### 🎓 Director, **Algorithmics International School of Programming Yaounde**  
 **May 2023 - Present** | *Yaoundé, Cameroon*  
-- Directed programming curriculum and led the integration of AI-focused modules for students.
+- Directed the integration of **AI and machine learning** curricula into programming courses, fostering the next generation of AI engineers.
 
 #### 🤖 AI-Powered Financial Chatbot Developer, **Boston Consulting Group (BCG)**  
 **Jan 2025 - Feb 2025**  
-- Developed a **financial chatbot** using **Python** and **pandas** to analyze **10-K** and **10-Q reports** from **Microsoft**, **Apple**, and **Tesla**.
+- Developed an **AI-powered financial chatbot** to analyze **10-K** and **10-Q reports** for major tech companies, utilizing **Python** and **pandas**.
 
 ---
 
@@ -60,31 +57,24 @@ As a **Blockchain Developer** and **AI Solutions Architect**, I combine my exper
 
 ### 🧑‍💻 Skills
 
-- **Smart Contracts**
-- **Blockchain Architecture**
-- **Solidity**
-- **Ethereum**
-- **SQL**  
-- **Business Analytics**
-- **SaaS Development**
-- **Custom Software Development**  
-- **Machine Learning**
-- **Python**
-- **AI Solutions Architecture**
-- **DeFi**
-- **AI & Automation**
+- **Machine Learning & AI Solutions**
 - **Generative AI**
-- **Project Management**
-- **Problem-Solving & Innovation**
+- **AI-Driven Automation**
+- **Natural Language Processing (NLP)**
+- **Solidity & Smart Contract Development**
+- **Python & Data Science**
+- **Blockchain Security & DeFi**
+- **AI Architecture & Integration**
+- **Project Management & Leadership**
+- **Problem Solving & Innovation**
 
 ## **👨‍💻 Technology Proficiency**
 
-[![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&labelColor=212121&logo=solidity&logoColor=white)](#)
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=212121&logo=python)](#)
-[![Ethereum Badge](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&labelColor=212121&logo=ethereum&logoColor=white)](#)
 [![AI Badge](https://img.shields.io/badge/-AI-FF6F00?style=for-the-badge&labelColor=212121&logo=tensorflow&logoColor=white)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=212121&logo=python)](#)
+[![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&labelColor=212121&logo=solidity&logoColor=white)](#)
+[![Ethereum Badge](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&labelColor=212121&logo=ethereum&logoColor=white)](#)
 [![Chainlink Badge](https://img.shields.io/badge/-Chainlink-375BD2?style=for-the-badge&labelColor=212121&logo=chainlink&logoColor=white)](#)
-[![RPA Badge](https://img.shields.io/badge/-RPA-0C4A61?style=for-the-badge&labelColor=212121&logo=robot&logoColor=white)](#)
 [![CrewAI Badge](https://img.shields.io/badge/-CrewAI-1A1A1A?style=for-the-badge&labelColor=212121&logo=crewai&logoColor=white)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&labelColor=212121&logo=github&logoColor=white)](#)
 [![VS Code Badge](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&labelColor=212121&logo=visualstudiocode&logoColor=white)](#)
@@ -92,17 +82,17 @@ As a **Blockchain Developer** and **AI Solutions Architect**, I combine my exper
 ## **🚀 Languages and Tools**
 
 <p align="left">
-  <a href="https://soliditylang.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="50" height="50" />
-  </a> 
+  <a href="https://www.tensorflow.org" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" />
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
   </a>
-  <a href="https://ethereum.org/en/" target="_blank">
-      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=040g" alt="ethereum" width="50" height="50" />
+  <a href="https://www.soliditylang.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="50" height="50" />
   </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" />
+  <a href="https://www.ethereum.org/" target="_blank">
+      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=040g" alt="ethereum" width="50" height="50" />
   </a>
   <a href="https://www.chain.link/" target="_blank">
       <img src="https://cryptologos.cc/logos/chainlink-link-logo.png?v=040" alt="chainlink" width="50" height="50" />
@@ -117,8 +107,6 @@ As a **Blockchain Developer** and **AI Solutions Architect**, I combine my exper
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="50" height="50" />
   </a>
 </p>
-
-
 
 ---
 
@@ -141,6 +129,7 @@ As a **Blockchain Developer** and **AI Solutions Architect**, I combine my exper
 - **Automation & RPA** | *Various Certifications*
 
 ---
+
 ### 🏆 Achievements
 
 - **AI-driven DeFi Trading Bots**: Resolved complex challenges in developing **AI-powered trading bots**, overcoming integration issues with AI models and blockchain oracles.
@@ -148,7 +137,9 @@ As a **Blockchain Developer** and **AI Solutions Architect**, I combine my exper
 - **Business Workflow Automation**: Automated business workflows using **AI** and **RPA**, helping clients streamline operations and improve efficiency.
 
 ---
+
 ### 💻 **Projects**
+
 - **Fund Me Contract**  
   A crowdfunding smart contract on the **Ethereum** blockchain.  
   [GitHub](https://github.com/Mettice/Foundry-Fund-Me)
@@ -191,8 +182,6 @@ As a **Blockchain Developer** and **AI Solutions Architect**, I combine my exper
 ---
 
 ### 👨‍💻 GitHub Activity
-
-
 
 <p align="center">
   <img width="1000" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662864935959/QSn1SEfOl.gif" alt="Activity Graph"/>
