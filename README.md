@@ -62,11 +62,69 @@ As a **Blockchain Developer** and **AI Solutions Architect**, I combine my exper
 
 ---
 
+## **🚀 Key Skills**
+
 ### 🧑‍💻 Skills
 
-- **Smart Contracts** | **Blockchain Architecture** | **Solidity** | **Ethereum** | **SQL**  
-- **Business Analytics** | **SaaS Development** | **Custom Software Development**  
-- **Machine Learning** | **Python** | **AI Solutions Architecture**
+- **Smart Contracts**
+- **Blockchain Architecture**
+- **Solidity**
+- **Ethereum**
+- **SQL**  
+- **Business Analytics**
+- **SaaS Development**
+- **Custom Software Development**  
+- **Machine Learning**
+- **Python**
+- **AI Solutions Architecture**
+- **DeFi**
+- **AI & Automation**
+- **Generative AI**
+- **Project Management**
+- **Problem-Solving & Innovation**
+
+## **👨‍💻 Technology Proficiency**
+
+[![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&labelColor=212121&logo=solidity&logoColor=white)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=212121&logo=python)](#)
+[![Ethereum Badge](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&labelColor=212121&logo=ethereum&logoColor=white)](#)
+[![AI Badge](https://img.shields.io/badge/-AI-FF6F00?style=for-the-badge&labelColor=212121&logo=tensorflow&logoColor=white)](#)
+[![Chainlink Badge](https://img.shields.io/badge/-Chainlink-375BD2?style=for-the-badge&labelColor=212121&logo=chainlink&logoColor=white)](#)
+[![RPA Badge](https://img.shields.io/badge/-RPA-0C4A61?style=for-the-badge&labelColor=212121&logo=robot&logoColor=white)](#)
+[![CrewAI Badge](https://img.shields.io/badge/-CrewAI-1A1A1A?style=for-the-badge&labelColor=212121&logo=crewai&logoColor=white)](#)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&labelColor=212121&logo=github&logoColor=white)](#)
+[![VS Code Badge](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&labelColor=212121&logo=visualstudiocode&logoColor=white)](#)
+
+## **🚀 Languages and Tools**
+
+<p align="left">
+  <a href="https://soliditylang.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="50" height="50" />
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
+  </a>
+  <a href="https://ethereum.org/en/" target="_blank">
+      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=040g" alt="ethereum" width="50" height="50" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" />
+  </a>
+  <a href="https://www.chain.link/" target="_blank">
+      <img src="https://cryptologos.cc/logos/chainlink-link-logo.png?v=040" alt="chainlink" width="50" height="50" />
+  </a>
+  <a href="https://www.crew.ai/" target="_blank">
+      <img src="https://us1.discourse-cdn.com/flex025/uploads/crewai/original/1X/fdcfd252ae0c6f9f344beab04113e9d9dc84f3c8.png" alt="CrewAI" width="50" height="50" />
+  </a>
+  <a href="https://www.github.com" target="_blank">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="50" height="50" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="50" height="50" />
+  </a>
+</p>
+
+
 
 ---
 
