@@ -1,4 +1,6 @@
-![Turquoise Simple Modern Linkedin Banner (1)](https://github.com/user-attachments/assets/aa5ffbac-c49e-4418-9971-aa3489917cf7)
+
+![githubbanner](https://github.com/user-attachments/assets/8ad7f443-7555-4562-bae2-fd264480f974)
+
 <h5 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Welcome+to+my+profile!;I+am+a+dedicated+AI+Solutions+Architect;Machine+Learning+Engineer+&+Automation+Expert;" />
 </h5>
